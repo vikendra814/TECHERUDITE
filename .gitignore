@@ -1,0 +1,9 @@
+
+
+# Backend specific
+backend/node_modules/
+
+# Frontend specific
+frontend/dist/
+frontend/node_modules/
+
